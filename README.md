@@ -7,7 +7,7 @@ I build the data behind financial decisions: ETL pipelines, reconciliations and 
 ## What I work with
 
 - **Data & BI:** SQL (SQL Server / T-SQL), Python (pandas), Power BI, Pentaho Data Integration, ETL design, data-quality validation
-- **Engineering:** Java, C++, MATLAB, Bash, Linux, Docker; academic background in assembly/microcontrollers, digital systems, control and signal processing
+- **Engineering:** Java, C++, MATLAB, Bash, Linux, Docker; C on ESP32/FreeRTOS (PlatformIO), assembly/microcontrollers, KiCad PCB design, Node-RED, Raspberry Pi
 - **Industrial & telecom:** Modbus RTU, MQTT, TCP/IP, provisioning and mediation, QA/UAT, server migrations
 - **Analytics methods:** reconciliation, Pareto concentration and materiality analysis, KPI design, financial variation analysis
 - **Data science:** pandas, NumPy, scikit-learn (logistic regression, decision trees, k-means), statsmodels (OLS, ARIMA), matplotlib, seaborn, Plotly
@@ -18,7 +18,7 @@ I build the data behind financial decisions: ETL pipelines, reconciliations and 
 | Project | What it shows |
 |---|---|
 | [telecom-revenue-assurance-analytics](https://github.com/mariaangelmilano-source/telecom-revenue-assurance-analytics) | Usage-vs-billed reconciliation in SQL on synthetic telecom data, leak classification, and concentration analysis that ranks exposure by financial impact |
-| [modbus-mqtt-gateway](https://github.com/mariaangelmilano-source/modbus-mqtt-gateway) | Based on my undergraduate thesis: Modbus RTU framing and CRC from scratch, polling, scaling and MQTT publishing, with a device simulator and tests |
+| [modbus-mqtt-gateway](https://github.com/mariaangelmilano-source/modbus-mqtt-gateway) | My undergraduate thesis: ESP32 firmware in C on FreeRTOS, custom KiCad PCB and field-tested Modbus RTU ↔ MQTT bridging, plus a tested Python re-implementation with a device simulator |
 
 More on the way: a tariff-change ETL pipeline (based on my master's thesis) and a product-analytics / A/B testing project.
 
