@@ -10,21 +10,24 @@ I build the data behind financial decisions: ETL pipelines, reconciliations and 
 - **Engineering:** Java, C++, MATLAB, Bash, Linux, Docker; academic background in assembly/microcontrollers, digital systems, control and signal processing
 - **Industrial & telecom:** Modbus RTU, MQTT, TCP/IP, provisioning and mediation, QA/UAT, server migrations
 - **Analytics methods:** reconciliation, Pareto concentration and materiality analysis, KPI design, financial variation analysis
-- **Languages:** Spanish (native), English (C2, EF SET 76/100), French (basic)
+- **Data science:** pandas, NumPy, scikit-learn (logistic regression, decision trees, k-means), statsmodels (OLS, ARIMA), matplotlib, seaborn, Plotly
+- **Languages:** Spanish (native), English (C2, EF SET 100/100), French (basic)
 
 ## Featured projects
 
 | Project | What it shows |
 |---|---|
-| [telecom-revenue-assurance-analytics](https://github.com/maria-angel-milano/telecom-revenue-assurance-analytics) | Usage-vs-billed reconciliation in SQL on synthetic telecom data, leak classification, and concentration analysis that ranks exposure by financial impact |
-| [modbus-mqtt-gateway](https://github.com/maria-angel-milano/modbus-mqtt-gateway) | Based on my undergraduate thesis: Modbus RTU framing and CRC from scratch, polling, scaling and MQTT publishing, with a device simulator and tests |
+| [telecom-revenue-assurance-analytics](https://github.com/mariaangelmilano-source/telecom-revenue-assurance-analytics) | Usage-vs-billed reconciliation in SQL on synthetic telecom data, leak classification, and concentration analysis that ranks exposure by financial impact |
+| [modbus-mqtt-gateway](https://github.com/mariaangelmilano-source/modbus-mqtt-gateway) | Based on my undergraduate thesis: Modbus RTU framing and CRC from scratch, polling, scaling and MQTT publishing, with a device simulator and tests |
 
 More on the way: a tariff-change ETL pipeline (based on my master's thesis) and a product-analytics / A/B testing project.
 
 ## Background
 
 - Revenue assurance and data engineering in a mobile operator; previously provisioning and mediation engineering in telecom.
-- Engineering internship at CENDIT (national telecom R&D center): designed an inductance meter for THT and SMD components, from circuit design and Proteus simulation to PCB layout and BOM under IPC/IEC standards.
+- Engineering internship at CENDIT (national telecom R&D center): designed, built and programmed an inductance meter for THT and SMD components, from circuit design and Proteus simulation to PCB layout (IPC/IEC), assembly and software.
+- Certifications: Google IT Support Professional Certificate (2024), Continuing Education Certificate in Leadership — MIU City University Miami (2025).
+- M.Sc. Business Intelligence GPA 8.84/10, with Matrícula de Honor (highest distinction) in Applied Business Intelligence.
 - Y&V Foundation scholar, and student representative on the UCV Electrical Engineering School Council.
 
 📫 [linkedin.com/in/maria-angel-milano](https://linkedin.com/in/maria-angel-milano)
