@@ -18,9 +18,11 @@ I build the data behind financial decisions: ETL pipelines, reconciliations and 
 | Project | What it shows |
 |---|---|
 | [telecom-revenue-assurance-analytics](https://github.com/mariaangelmilano-source/telecom-revenue-assurance-analytics) | Usage-vs-billed reconciliation in SQL on synthetic telecom data, leak classification, and concentration analysis that ranks exposure by financial impact |
+| [adjustments-control-dashboard](https://github.com/mariaangelmilano-source/adjustments-control-dashboard) | Power BI revenue-assurance control: D+1 deviation alerts, value-outlier scatter, price heatmaps, zero-cost analysis and balance-transfer reconciliation (star schema, DAX, Power Query) |
+| [subscriber-balance-reconciliation-etl](https://github.com/mariaangelmilano-source/subscriber-balance-reconciliation-etl) | ETL from multi-schema sources with mixed formats into SQL Server: chunked CTE-free extraction, pivoting, daily theoretical-vs-real balance and micro-fraud detection |
 | [modbus-mqtt-gateway](https://github.com/mariaangelmilano-source/modbus-mqtt-gateway) | My undergraduate thesis: ESP32 firmware in C on FreeRTOS, custom KiCad PCB and field-tested Modbus RTU ↔ MQTT bridging, plus a tested Python re-implementation with a device simulator |
 
-More on the way: a tariff-change ETL pipeline (based on my master's thesis) and a product-analytics / A/B testing project.
+More on the way: a tariff-change ETL pipeline based on my master's thesis.
 
 ## Background
 
